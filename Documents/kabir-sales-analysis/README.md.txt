@@ -4,7 +4,7 @@ Sales were flunctuating where the amount column was looked at.
 Overall Business Health
 Fairly okay.
 Visual Evidence
-![Representative Table](images/Iotbassignment1.png) 
+![Representative Table]("C:\Users\USER\Documents\kabir-sales-analysis\Iotbassignment1.png") 
 ![Representative Table](images/Iotbassignment2.png) 
 ![Representative Table](images/Iotbassignment3.png)
 
